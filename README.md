@@ -11,7 +11,7 @@ Derived features and implemented cost-based learning strategies.
 
 Models are finally evaluated on the savings by calculating the detected fraud amount and the associated costs for false detections.
 
-Achieved a 90.3% reduction in fraudulent transaction amounts and a net savings of 82.6%.
+Achieved a 91% reduction in fraudulent transaction amounts and a net savings of 82.6% on the ensemble learning model (best model).
 
 ***
 
